@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository is where code is online as opposed to only being accessable locally 
